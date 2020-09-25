@@ -4,4 +4,6 @@ Clinically collected electrocardiographic (ECG) signals are often contaminated w
 Data set is gathered from physionet.org
 In order to keep eye on erros, we generated a synthesised ECG signal with specific known characteristics and then by knowing the result and mean square error on that better produce reults for real data sets.
 
-### I would suggest first to take a look at the results. I hope it helps. 
+### I would suggest first to take a look at the results. I hope it helps. <br>
+Here is the [Link](https://www.slideshare.net/aliBagherzadehkarimi/life-in-the-eyes-of-the-computer) to the slides. 
+
